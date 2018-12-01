@@ -1,12 +1,17 @@
 # Praktikum6
 
-
 ##latihan1.cpp : Buatlah fungsi(void) menggunakan passing parameter by reference untuk menukar nilai dari dua buah variable.
 
 **Alur algoritma**
 1. Mendeklarasikan variabel 'int(kali, bagi, tambah, kurang);' sebagai variable input.
 2. Membaca input dari keyboard 'return a*b, a/b, a+b, a-b'
 3. Membandingkan nilai variable return a*b, a/b, a+b, a-b
+
+**Flowchart Program**
+![Flowchart](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Flowchart1.png)
+
+**Screenshoot**
+![Screenshoot](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Screenshot1.png)
 
 **code program lengkap**
 '''c++
@@ -42,6 +47,18 @@ return a-b;
 3. Membandingkan nilai variable  cout << "Nilai 1 : " << a << endl;
 				 cout << "Nilai 2 : " << b << endl;
 
+
+**Flowchart Program**
+![Flowchart21](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Flowchart21.png)
+
+**Flowchart Program**
+![Flowchart22](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Flowchart22.png)
+
+**Screenshoot**
+![Screenshoot21](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Screenshoot21.png)
+
+**Screenshoot**
+![Screenshoot22](https://raw.githubusercontent.com/fiqihalfiansyahzahari/Praktikum6/master/Screnshoot22.png)
 
 **code program lengkap**
 '''c++
